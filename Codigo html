@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html la
+ng="en">                                                                        
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokemons plantas</title>
+</head>                                                                                                        
+<body>                                                                              
+    <p><b>Primeiro tipo</b></p>
+    <div>
+        <h1>Cacnea</h1>                                                             
+        <h2><img src="cacnea.png" ></h2>
+        <h3> Primeira evoluçao encontrada principalmente em desertos</h3>
+    </div>
+    <div>
+        <h1>Cacturne</h1>
+        <h2><img src="cacturne.png"></h2>
+        <h3>Segunda evoluçao adicionando o dark type</h3>
+    </div>
+    <div>
+        <h1>Esses sao dois dos melhores pokemons plantas</h1>
+        <h2><img src="cacturne-pokemon.gif"></h2>
+    </div>
+</body>
+</html>
